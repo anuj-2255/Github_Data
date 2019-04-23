@@ -1,4 +1,5 @@
 # Data-fetching-using-Gson
-This is simple app just to understand the Gson. it's working and how we create java object from json string.
-it contains one acivity in which we fetch our data into recyclerview.
-
+This is Basic app to show how can we parse JSON through Gson library.
+in this app we just simply convert then Json sting into Java object anf parse it via Gson.
+we use Recycler view to show our data.
+You can cusyomize it as per your choice.
