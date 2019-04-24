@@ -7,7 +7,8 @@
 
 # Description
 This is Basic app to show how can we parse JSON through Gson library.<br>
-in this app we just simply convert then Json sting into Java object anf parse it via Gson.<br>
+in this app we just simply convert then Json sting into Java object and parse it via Gson.<br>
+images are fetched by Glide libarary into an imageview.<br>
 we use Recycler view to show our data in a staggeredgridlayout form.<br>
 You can cusyomize it as per your choice.<br>
 i used Githus's open api for this.<br>
@@ -16,5 +17,5 @@ i used Githus's open api for this.<br>
 Github open Api:- https://api.github.com/users
 
 # Libraries Used
- Gson <br>
- Volley
+ Gson <br> Volley <br> Glide
+ 
